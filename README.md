@@ -1,12 +1,15 @@
 # SafetyPotential-RL (Longitudinal Control)
 
-_Paper:_ **“Predictive Risk-Aware Reinforcement Learning for Autonomous Vehicles Using Safety Potential.”**
+*Paper:* **“Predictive Risk-Aware Reinforcement Learning for Autonomous Vehicles Using Safety Potential.”**
 
-This repository provides code for longitudinal (acceleration/braking) control trained with a reward based on the predictive risk metric **Safety Potential (SP)**.
+Implementation of a reinforcement-learning controller for longitudinal (acceleration/braking) control that uses the predictive risk metric **Safety Potential (SP)** as the reward/shaping term.
 
 ## Versions / Environment
-Please check `requirements.txt` and `environment.yml` for dependencies.  
+See dependency pins in `requirements.txt` and `environment.yml`.  
 An environment snapshot is available at `run/env-meta.json`.
 
 ## Status
-Preprint under review; interfaces and results may change.
+Preprint under review — interfaces and results may change.
+
+## License
+MIT — see `LICENSE`.
