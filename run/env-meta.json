@@ -1,0 +1,35 @@
+{
+  "timestamp": "20250918-121603",
+  "python": "3.7.0",
+  "executable": "/home/choijinho/anaconda3/envs/vworld2/bin/python",
+  "platform": "linux",
+  "pytorch": {
+    "torch": "1.13.1+cu117",
+    "cuda_compiled": "11.7",
+    "cuda_available": true,
+    "gpu_count": 1,
+    "gpus": [
+      "NVIDIA GeForce RTX 4070 Ti"
+    ]
+  },
+  "git": {
+    "root": "/home/choijinho/carla",
+    "branch": "HEAD",
+    "commit": "580ae28c9a33f6c0307fd1737d37d2856360fda0",
+    "dirty": true
+  },
+  "selected_versions": {
+    "numpy": "1.18.3",
+    "pandas": "1.1.5",
+    "scipy": "1.7.3",
+    "matplotlib": "3.5.3",
+    "tqdm": "4.66.4",
+    "torch": "1.13.1",
+    "torchvision": "0.14.1",
+    "accelerate": "0.20.3",
+    "scikit-learn": "1.0.2",
+    "opencv-python": "4.2.0.34",
+    "pyyaml": "6.0.1",
+    "tensorboard": "2.11.2"
+  }
+}
